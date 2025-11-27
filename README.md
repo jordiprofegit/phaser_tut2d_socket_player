@@ -139,16 +139,6 @@ phaser-multiplayer-game/
 - [ ] Líderboard global
 - [ ] So i efectes sonors
 
-## 👥 Contribucions
-
-Les contribucions són benvingudes! Si vols millorar el joc:
-
-1. Fes un fork del projecte
-2. Crea una branca per a la teva característica (`git checkout -b feature/nova-caracteristica`)
-3. Fes commit dels teus canvis (`git commit -am 'Afegeix nova característica'`)
-4. Fes push a la branca (`git push origin feature/nova-caracteristica`)
-5. Obre un Pull Request
-
 ## 📝 Llicència
 
 Aquest projecte està sota la Llicència MIT.
