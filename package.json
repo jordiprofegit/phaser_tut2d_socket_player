@@ -1,0 +1,19 @@
+{
+  "name": "phaser_yt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js --ext js,html,css,json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11",
+    "socket.io": "^4.8.1"
+  }
+}
