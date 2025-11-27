@@ -143,6 +143,10 @@ phaser-multiplayer-game/
 
 Aquest projecte està sota la Llicència MIT.
 
+## 📝 Llicència
+
+[Projecte amb el que es basa](https://www.youtube.com/watch?v=JhK1VgYZx6E)
+
 ---
 
 **Diverteix-te jugant!** 🎉
